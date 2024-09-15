@@ -1,1 +1,1 @@
-# Projeto-de-Redes-Sociais
+# Projeto-Social
